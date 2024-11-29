@@ -11,4 +11,4 @@ A visually engaging Ace of Spades card design created using only HTML and CSS. T
 - HTML: Structure of the card layout and content.
 - CSS: Styling for the card, including the font, shapes, colors, and layout.
 
-- [Hosted Link](https://kirthanaa05.github.io/Ace-Spades/)
+[Hosted Link](https://kirthanaa05.github.io/Ace-Spades/)
